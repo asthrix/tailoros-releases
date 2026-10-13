@@ -1,0 +1,15 @@
+{
+  "version": "0.2.2",
+  "notes": "The update panel now keeps the installed version visible even when an update check fails. After an upgrade, use this native version to confirm which application is running. Offline shop work remains available when the update feed cannot be reached.",
+  "pub_date": "2026-10-13T11:00:29.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXFEQ3ZhdDNSaitNVzJWRDIvMVZGUHNnbytRRmlzcTVzOHY0UkZEU2t1NmxmV2xNMFh4U3RiOEx0QXZQdHNVVGdYTlhmS0pIK1NjL01PNlpVT0hNb3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODkxNTc5CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuMl94NjQtc2V0dXAuZXhlCjlwRnF5WVVpY285MmlnUDJOd3hpSWF6WFNubmhXK1VHWU14OEZHWjQwL2FmRHV0ZDNkTTVWanM5QXR3WFM2NGR6MmhPMGlGWW54dGlDRnd1ck1nckJRPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.2/TailorOS_Preview_0.2.2_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXFEQ3ZhdDNSaitNVzJWRDIvMVZGUHNnbytRRmlzcTVzOHY0UkZEU2t1NmxmV2xNMFh4U3RiOEx0QXZQdHNVVGdYTlhmS0pIK1NjL01PNlpVT0hNb3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODkxNTc5CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuMl94NjQtc2V0dXAuZXhlCjlwRnF5WVVpY285MmlnUDJOd3hpSWF6WFNubmhXK1VHWU14OEZHWjQwL2FmRHV0ZDNkTTVWanM5QXR3WFM2NGR6MmhPMGlGWW54dGlDRnd1ck1nckJRPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.2/TailorOS_Preview_0.2.2_x64-setup.exe"
+    }
+  }
+}
