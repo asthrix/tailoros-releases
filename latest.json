@@ -1,14 +1,14 @@
 {
-  "version": "0.2.6",
-  "notes": "Windows Preview installers now use a version-resource header compatible with the installed updater. Signature verification, newer-version checks, PIN authorization, saved-work checks and recovery creation remain active. This version also includes the guarded final locked-window closure changes from 0.2.5.",
+  "version": "0.2.7",
+  "notes": "This Windows Preview version provides the second native OTA rehearsal target after the successful 0.2.4 to 0.2.6 upgrade. It retains the verified installer compatibility repair and existing React/Rust behavior. No business-data schema, enrollment trust or updater key changes are introduced.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXA1eE45RG1SYUhTSDZqK2JCRmpLZWx6QnFzZ1NtMmpTeGtyRnMwQkN6UFVhVHRQWVVVZkM1dlJ3Q3E0RGt1S3dlWmRpWTFCbGRBL1BDU3dIc2ZhbkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTczMDEyCWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNl94NjQtc2V0dXAuZXhlCnhpd0sySUh6ZmlxMi9PbC9aaWs0SytFTnFGYXJnd2plSi82SjF5UkxtV3R2d3Zicm5IelFXYVBjQUlvL1U1MzFQempLb1Q5eG1DakloVEJMbWtCUkNRPT0K",
-      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.6/TailorOS_Preview_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VWl1aXFKOUlBZnhOcS9EcUhTUWlHd1ExK1pEMjBZVDRlc1lHcUhwaEFBL3hwc2FqeFFDUGRzd2lCMC9FY3ErQVNRdzljU1VlZ0hFc2ZJM04zdHNlTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTgwMzU2CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuN194NjQtc2V0dXAuZXhlClFZSjJRdHVsWE1lZGZQZVpoWTg4c0xSWDdiOTJrQUVNdEZtRjN3ZVZXaUJEMzFsQ2VPL1JlQ0hwSnhSNHdzdUdqSjE2bU5QUG9BMVQwWmJ6VHlYVERnPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.7/TailorOS_Preview_0.2.7_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXA1eE45RG1SYUhTSDZqK2JCRmpLZWx6QnFzZ1NtMmpTeGtyRnMwQkN6UFVhVHRQWVVVZkM1dlJ3Q3E0RGt1S3dlWmRpWTFCbGRBL1BDU3dIc2ZhbkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTczMDEyCWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNl94NjQtc2V0dXAuZXhlCnhpd0sySUh6ZmlxMi9PbC9aaWs0SytFTnFGYXJnd2plSi82SjF5UkxtV3R2d3Zicm5IelFXYVBjQUlvL1U1MzFQempLb1Q5eG1DakloVEJMbWtCUkNRPT0K",
-      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.6/TailorOS_Preview_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VWl1aXFKOUlBZnhOcS9EcUhTUWlHd1ExK1pEMjBZVDRlc1lHcUhwaEFBL3hwc2FqeFFDUGRzd2lCMC9FY3ErQVNRdzljU1VlZ0hFc2ZJM04zdHNlTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTgwMzU2CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuN194NjQtc2V0dXAuZXhlClFZSjJRdHVsWE1lZGZQZVpoWTg4c0xSWDdiOTJrQUVNdEZtRjN3ZVZXaUJEMzFsQ2VPL1JlQ0hwSnhSNHdzdUdqSjE2bU5QUG9BMVQwWmJ6VHlYVERnPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.7/TailorOS_Preview_0.2.7_x64-setup.exe"
     }
   }
 }
