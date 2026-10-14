@@ -1,14 +1,14 @@
 {
-  "version": "0.2.5",
-  "notes": "Closing the final locked Windows window now starts the existing guarded quit process. Recovered drafts, including another operator's preserved drafts, block quitting until their owner signs in and resolves them. Native session authorization remains active. Closing an authenticated window or one among several open shells keeps its existing behavior.",
+  "version": "0.2.6",
+  "notes": "Windows Preview installers now use a version-resource header compatible with the installed updater. Signature verification, newer-version checks, PIN authorization, saved-work checks and recovery creation remain active. This version also includes the guarded final locked-window closure changes from 0.2.5.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXJrODZBQmV3SmgvVmVNRGlub3V2cXp0eFBmTnB3MEhRTU8vTkR3MSs5WVVtTUdBR3N2K2pZQ3o4Z2laMVBQM21CRWVVYkV0VW52MXJKeTBZQnFVZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTEzNDM4CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNV94NjQtc2V0dXAuZXhlCnA3cGZ1eDdrb1hlcDlic2UxN1Y3ekxCdzEvQzhsdS9mWUFHdUJ0cm56aTFOSTZYSllwNDlyNzVBTEYzV3lSZHhSY3RoUmFQS1hPTlFFTHVkdC9maER3PT0K",
-      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.5/TailorOS_Preview_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXA1eE45RG1SYUhTSDZqK2JCRmpLZWx6QnFzZ1NtMmpTeGtyRnMwQkN6UFVhVHRQWVVVZkM1dlJ3Q3E0RGt1S3dlWmRpWTFCbGRBL1BDU3dIc2ZhbkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTczMDEyCWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNl94NjQtc2V0dXAuZXhlCnhpd0sySUh6ZmlxMi9PbC9aaWs0SytFTnFGYXJnd2plSi82SjF5UkxtV3R2d3Zicm5IelFXYVBjQUlvL1U1MzFQempLb1Q5eG1DakloVEJMbWtCUkNRPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.6/TailorOS_Preview_0.2.6_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXJrODZBQmV3SmgvVmVNRGlub3V2cXp0eFBmTnB3MEhRTU8vTkR3MSs5WVVtTUdBR3N2K2pZQ3o4Z2laMVBQM21CRWVVYkV0VW52MXJKeTBZQnFVZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTEzNDM4CWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNV94NjQtc2V0dXAuZXhlCnA3cGZ1eDdrb1hlcDlic2UxN1Y3ekxCdzEvQzhsdS9mWUFHdUJ0cm56aTFOSTZYSllwNDlyNzVBTEYzV3lSZHhSY3RoUmFQS1hPTlFFTHVkdC9maER3PT0K",
-      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.5/TailorOS_Preview_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSm8zczZLVVg5VXA1eE45RG1SYUhTSDZqK2JCRmpLZWx6QnFzZ1NtMmpTeGtyRnMwQkN6UFVhVHRQWVVVZkM1dlJ3Q3E0RGt1S3dlWmRpWTFCbGRBL1BDU3dIc2ZhbkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTczMDEyCWZpbGU6VGFpbG9yT1MgUHJldmlld18wLjIuNl94NjQtc2V0dXAuZXhlCnhpd0sySUh6ZmlxMi9PbC9aaWs0SytFTnFGYXJnd2plSi82SjF5UkxtV3R2d3Zicm5IelFXYVBjQUlvL1U1MzFQempLb1Q5eG1DakloVEJMbWtCUkNRPT0K",
+      "url": "https://github.com/asthrix/tailoros-releases/releases/download/preview-v0.2.6/TailorOS_Preview_0.2.6_x64-setup.exe"
     }
   }
 }
